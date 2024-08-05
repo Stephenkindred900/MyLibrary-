@@ -1,0 +1,208 @@
+
+.header{
+    
+    background:#db7f5bcd;
+}
+body{
+    min-height: 130vh;
+    background: seagreen;0vh;
+    
+
+        
+   
+}
+
+@media(min-width:600px){
+    
+}
+.title{
+    display:flex;
+    justify-content:center;
+    
+}
+.container{
+    background: #494cdbcd
+    min-height: 100vh;
+    width: 100%;
+    padding:0;
+}
+
+h1{
+    font-size:3.5rem;
+    color:#ff7300;
+    font-family:Times New Roman;
+    margin:0 5.5%;
+}
+.navigate{
+    min-height: 50px;
+    padding:1px;
+    align-items:center;
+    justify-contet:center;
+    background:#2babff;
+    position: sticky;
+    height: 100%;
+}
+.navigate li{
+    font-size:1.5rem;
+    font-family:Times New Roman;
+    color:red;
+    margin:5% 1%;
+    display:inline;
+    padding:3px 3px;
+
+      
+    }
+header:hover{
+    background-color: red;
+}
+
+li a{
+    text-decoration:none;
+    
+}
+    
+.time{
+    display:flex;
+    justify-content:center;
+    color:red;
+}
+    
+    border:4px solid seagreen;
+    border-radius:5px;
+  
+  
+  
+
+body{
+	background: seagreen;
+	height: 100vh;
+}
+
+
+
+
+
+.board{
+	height: 80vh;
+	background: darkcyan;
+	margin: 3px 5px;
+	padding: 2px;
+}
+h2{
+	font-size: 34px;
+	color: yellow;
+	margin: 8px 2px;
+	
+	}
+.h2{
+	display: flex;
+	background: darkturquoise;
+	height: 10vh;
+	padding: 2px;
+  flex-direction:row;
+  
+	}
+
+.list{
+	display: flex;
+	flex-direction: column;
+	background: lightsteelblue;
+	min-height: 60%;
+	margin: 10px 5px;
+	padding:10px 2px;
+
+
+}
+.list a{
+	text-decoration: none;
+	color: firebrick;
+	font-size: 1.5rem;
+	font-family: fantasy;
+	padding: 4px;
+	margin: 2px;
+
+
+
+}
+.contacts{
+	
+	min-height: 5vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: baseline;
+	width: 100%;
+
+}
+a{
+	text-decoration: none;
+}
+.cts{
+	font-size: 20px;
+	font-family: sans-serif;
+	padding: 2px;
+	margin: 1px;
+	background: darkseagreen;
+
+}
+
+.hlp{
+    font-size:22px;
+    color:#fff155;
+    font-family:serif;
+    
+}
+.hlp a{
+    color:#1523ff;
+    font-size:18px;
+    
+}
+
+
+
+
+
+
+.footer1{
+    display: grid;
+   
+    height: 28vh;
+    min-width: 100%;
+    position: relative;
+        
+
+
+}
+.footer2{
+   border:1px solid grey;
+  display:flex;
+  flex-direction:column;
+  bottom: ;
+  align-items: center;
+   gap:0;
+   flex:1;
+   padding:0;
+   bottom:0;
+   position: absolute;
+   min-width: 100%;
+    background: #e5d97379;
+
+    
+}
+.prc{
+    
+    margin:0;
+    padding:9px;
+    font-size:1.2rem;
+    bottom: 0;
+ }
+ .privacy, a{
+   color: firebrick
+}
+
+.rtn a {
+                text-decoration:none;
+                font-color:darkblue;
+                align-items:center;
+                justify-content:center;
+                display:flex;
+            }
